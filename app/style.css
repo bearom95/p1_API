@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+header {
+  background-color: pink;
+  width: 100vw;
+  padding: 1rem
+}
+
+header img {
+  height: 2rem;
+  display: block;
+
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  background-color: blue;
+  width: 100vw;
+  height: 1.5rem;
+}
